@@ -1,0 +1,26 @@
+[
+    {
+        "title":"SĀKT SPĒLI",
+        "action":"doPlayGame",
+        "description":"Izveidot spēļu telpu un spēlēt.",
+        "value":0
+    },
+    {
+        "title":"LĪDERU TABULA",
+        "action":"doLeaderboards",
+        "description":"Šeit pēdējo kauju statistika.",
+        "value":1
+    },
+    {
+        "title":"IESTATĪJUMI",
+        "action":"doSettings",
+        "description":"Cenzūra, taimeri, auditorija utt.",
+        "value":2
+    },
+    {
+        "title":"IZIET",
+        "action":"doBackToPack",
+        "description":"Iziet atpakaļ uz izvēlni.",
+        "value":3
+    }
+]

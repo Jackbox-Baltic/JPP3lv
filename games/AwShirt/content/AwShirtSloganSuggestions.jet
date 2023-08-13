@@ -1,0 +1,1270 @@
+{
+    "episodeid": 1266,
+    "content": [
+        {
+            "suggestion": "Tas, ko tu vienmēr dzirdi no tūkstošgadniekiem",
+            "id": 40176,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu redzēt afišu stabā",
+            "id": 40177,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Frāze, ko varētu redzēt uz iedvesmojoša plakāta",
+            "id": 40181,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Veiksme, ko dāvināja Magic 8 Ball",
+            "id": 40185,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu teiksi galda spēles laikā",
+            "id": 40192,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu dzirdēt Disnejlendā",
+            "id": 40193,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, ko tu vēlies uzrakstīt uz savām vizītkartēm",
+            "id": 40198,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, ko tu gribi uzrakstīt savā kapakmenī",
+            "id": 40201,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Dziesmu teksts, kas varētu būt no Līvi albuma",
+            "id": 40204,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Pirmā rindiņā, ko tu uzrakstītu savā autobiogrāfijā",
+            "id": 40205,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu vari dzirdēt politiskā partija",
+            "id": 40206,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, ko tu ierakstīsi savā iepazīšanās tiešsaiste profilā",
+            "id": 40207,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Īsā rindiņa, kas apraksta <i>Dejo ar zvaigzni!</i>",
+            "id": 40208,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko alu cilvēks teiktu",
+            "id": 40209,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko teiktu briesmīgs taksists",
+            "id": 40308,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Brīdinājuma zīme, ko redzētu pieturvietā",
+            "id": 40309,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, ko var redzēt uz laimes cepumiem",
+            "id": 40310,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Briesmīgs kalambūrs",
+            "id": 40311,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kāds būtu tavs biogrāfiskās filmas sauklis",
+            "id": 40313,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko teiktu briesmīgs tiesnesis",
+            "id": 40314,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, ar kuru tu vari uzvarēt strīdā",
+            "id": 40315,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Pirmā lieta, ko tu dzirdēsi, kad nokļūsi debesīs",
+            "id": 40316,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu nevēlies dzirdēt no apbedīšanas biroja",
+            "id": 40317,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tavs kampaņas sauklis, ja kandidētu uz prezidenta amatu",
+            "id": 40318,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kā tu gribētu redzēt citātu no sava skolas albuma",
+            "id": 40321,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, ko tu vari dzirdēt koledžas atklāšanas runā",
+            "id": 40322,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko teiktu Garfīlds",
+            "id": 40323,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu teiksi, lai piesaistītu visu uzmanību",
+            "id": 40324,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko varētu teikt kāds džeza dziedātājs",
+            "id": 40327,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Frāze, ko tu varētu redzēt uz stilīga tūristu t-krekla Rīgā",
+            "id": 40328,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu teiksi Benediktam Kamberbačam",
+            "id": 40329,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko Dedpūls droši vien teiktu",
+            "id": 40330,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, ko tu teiksi darba intervijā",
+            "id": 40331,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu vienmēr dzirdi no klientu atbalsta dienesta",
+            "id": 40334,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tava politiska nostāja",
+            "id": 40335,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko varētu dzirdēt no nemākulīga glābēja",
+            "id": 40336,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko teiktu nekaunīgs mežcirtējs",
+            "id": 40338,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu teiktu, lai kāds izspļauj ūdeni",
+            "id": 40340,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Brīdinājums farmācijas reklāmā",
+            "id": 40706,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu teiksu savā nāves gultā",
+            "id": 40707,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, ko tu teiksi kā ķīlnieku sarunu vedējs",
+            "id": 40709,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko kliedz basketbola treneris",
+            "id": 40710,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu teikt, lai pasauktu savu mīluli",
+            "id": 40711,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko var uzrakstīt pastkartes iekšpusē ar līdzjūtības izteiksmi",
+            "id": 40712,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko 3. klases skolotājs varētu teikt klasei",
+            "id": 40713,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko sacītu slikta aukle",
+            "id": 40714,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu teikt, kad redzi, ka esi dabūjis parkošanās biļeti",
+            "id": 40715,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu dzirdēt sakām no tiesneša suņu izstādē",
+            "id": 40716,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, ko tu varētu dzirdēt reklāmas raidījumā",
+            "id": 40718,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko kaķis teiktu, ja varētu runāt",
+            "id": 40720,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko ārsts varētu pateikt pirms ārstēšanas ar tevī",
+            "id": 40721,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko rupjš cilvēks teiktu pēc došanās uz tualeti",
+            "id": 40722,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko rupjš Tele2 asistents varētu teikt",
+            "id": 40723,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Humora dziesmas nosaukums",
+            "id": 40724,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Padoms, ko vēlies saņemt agrāk dzīvē",
+            "id": 40725,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu uzreiz teiktu, ja ieraudzītu laupītāju",
+            "id": 40726,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu saki nelielā sarunā",
+            "id": 40727,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko ātrā ēdināšana darbiniekam bieži ir jārunā",
+            "id": 40728,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu teikt kāds meteorologs TV raidījumā",
+            "id": 40729,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu teikt futbola komentētājs",
+            "id": 40730,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Piezīme, ko mamma ieliktu tavu skolas pusdienās",
+            "id": 40731,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kāds apburošs ķipars saka",
+            "id": 40732,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu sadzirdēt pārtikas veikala skaļrunī",
+            "id": 40733,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kas tev pateiks briesmīga mūza",
+            "id": 40734,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu teiksi šķiršanās laikā",
+            "id": 40736,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu teikt kāds satraukts zubrītājs",
+            "id": 40738,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu teikt ģimenes fotogrāfs",
+            "id": 40739,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu teikt kāds supervaronis, kurš gatavojas uzvarēt",
+            "id": 40741,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Iedvesmojoša lieta, lai kliegtu cilvēkiem, kas skrien maratonu",
+            "id": 40742,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu dzirdēt kliedzam kādu, kas spēlē Pokemon",
+            "id": 40744,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu teikt cilvēkam, kurš runā filmas laikā",
+            "id": 40745,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu kliegt savas mīļākās grupas koncertā",
+            "id": 40747,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu pajautāt eņģelim",
+            "id": 40748,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kas varētu būt rakstīts tualetes kabīnē",
+            "id": 40749,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu izlasīt kuponā",
+            "id": 40751,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Frāze, ko tu varētu dzirdēt ugunsdzēsības mācību laikā",
+            "id": 40752,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu dzirdēt no sava personīgā trenera",
+            "id": 40753,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu dzirdēt politiķa apgalvojumā",
+            "id": 40755,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Pirmais, ko tu visvairāk domā no rītiem",
+            "id": 40836,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Jautājums, ko tu uzdotu prezidentam",
+            "id": 40837,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Melodramatiska rindiņa",
+            "id": 40838,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu varētu teikt santehniķim",
+            "id": 40840,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko policijas darbinieks varētu tev pajautāt",
+            "id": 40841,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu varētu izlasīt uz galda spēles iepakojuma",
+            "id": 40842,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Iesauka, ko tu varētu dot vidusskolēnam",
+            "id": 40843,
+            "type": "Canned Slogan"
+        },
+        {
+            "suggestion": "Tas, ko tu varētu teikt masāžas laikā",
+            "id": 40844,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Brīdinājuma zīme, ko kāds varētu novietot pie savas mājas",
+            "id": 40845,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Īss motivējošs vārds, ko treneris varētu teikt",
+            "id": 40846,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kaut kas, ko tu teiktu, saderināšanās laikā",
+            "id": 40847,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu varētu pajautāt frizierim",
+            "id": 40849,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Frāze, ko varētu dzirdēt tiesā",
+            "id": 40850,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Zīme, ko var redzēt pie apģērbu veikala uzlaikojamā kabīnē",
+            "id": 40852,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Pančlains tava iecienītākā joka",
+            "id": 40853,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko var izlasīt uz veļas mazgāšanas līdzekļa pudeles",
+            "id": 40854,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu iesaukt kāds izsaucējs komēdijas šovā",
+            "id": 40855,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Zīme, ko tu varētu izlasīt bibliotēkā",
+            "id": 40856,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko bērns varētu kliegt garā ceļojumā",
+            "id": 40858,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ātrās ēdināšanas restorāna sauklis",
+            "id": 40859,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Zīme, ko tu varētu izlasīt nacionālajā parkā",
+            "id": 40860,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Padoms, ko tu varētu dzirdēt no patiešām vesela cilvēka",
+            "id": 40861,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko viens burvis varētu teikt kādam citam",
+            "id": 40862,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko esi kliedzis satiksmē",
+            "id": 40865,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Zīme, ko tu var redzēt akvaparkā",
+            "id": 40866,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu teikt sporta skolotājs",
+            "id": 40867,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu dzirdēt no stjuartes sakām",
+            "id": 40868,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko var būt uzrakstīts vēstules tēmā ar surogātpastu",
+            "id": 40869,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Zīme, ko var izlasīt kādā populārā pludmalē",
+            "id": 40870,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko aizsargs droši vien saka daudz",
+            "id": 40871,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu izlasīt uz veģetāro burgeru iepakojuma",
+            "id": 40872,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu dzirdēt kādā Svētā Jāņa baznīcā",
+            "id": 40873,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu teikt panikas pārņemts astronauts",
+            "id": 40874,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tavas mīļākās 90. gadu dziesmas nosaukums",
+            "id": 40875,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu varētu lasīt mēbeļu instrukcijās",
+            "id": 40876,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko varētu teikt dusmīgs Džastins Bībers",
+            "id": 40877,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Nepatīkama ziņa, ko dzirdēt, atrodoties bankā",
+            "id": 40878,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko cilvēki droši vien saka, apmeklējot Ezerpili",
+            "id": 40879,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tev varētu pateikt slikts Bolt šoferis",
+            "id": 40880,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kaut kas tāds, ko kāds dīvainis varētu kliegt pieturvietā",
+            "id": 40881,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Zīme, ko varētu izlasīt zooloģiskajā dārzā",
+            "id": 40882,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu varētu izlasīt pēc uzrakstītajiem lidmašīnas dūmiem",
+            "id": 40883,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko bankas laupītājs varētu teikt pēc \"Tas ir laupīšana!\"",
+            "id": 40884,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Jebkura pilsētas sauklis, cik labi tu zini",
+            "id": 40885,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko pilots varētu teikt pirms nolaišanās",
+            "id": 40886,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Brīdinājums, ko varētu dzirdēt rīta ziņojumā",
+            "id": 40887,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Supervaroņa frāze",
+            "id": 40888,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko cilvēki 70. gados droši vien teica daudz",
+            "id": 40889,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko bērnudārza audzinātājai droši vien daudz sakā",
+            "id": 40890,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu dzirdēt kliedzot kādā bārā",
+            "id": 40891,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Jautājums, ko cilvēki bieži uzdod lidostā",
+            "id": 40892,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kādi spilgti citāti no Valsts prezidenta uzrunām",
+            "id": 40893,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu tipiski dzirdi no kāda bērna kliedziena sabiedriskā vietā",
+            "id": 40894,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu dzirdēt no dusmīgas meitenes skolā",
+            "id": 40895,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu pajautāt, kad saņemsi autovadītāja apliecību",
+            "id": 40897,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko katrs bērns jautā saviem vecākiem",
+            "id": 40898,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Padoms, ko esi saņēmis no vecāka",
+            "id": 40899,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu teikt, ieraugot Ķemeru nacionālo parku",
+            "id": 40900,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu dzirdēt Beitmena teikto",
+            "id": 40901,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kāds jautājums viesmīlim vai viesmīlei",
+            "id": 40902,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu dzirdēt no auto tirgotāja",
+            "id": 40903,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko var dzirdēt pie vecmāmiņu soliņa",
+            "id": 40905,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Zīme, ko tu varētu izlasīt kultūras namā",
+            "id": 40906,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Zīme, ko varētu redzēt sava uzņēmuma atpūtas telpā",
+            "id": 40907,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Divi vārdi, ko tu varētu izlasīt uz košļājamās gumijas iepakojuma",
+            "id": 40908,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko kāds varētu teikt Rimi veikalā",
+            "id": 40909,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko varētu kliegt pusaudzis Džastina Bībera koncertā",
+            "id": 40910,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Paziņojums, ko tu varētu sagaidīt no PRUSAX",
+            "id": 40911,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu varētu teikt kāzu ceremonijas laikā",
+            "id": 40912,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Īss teksts, ko nesen nosūtīji",
+            "id": 40913,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Parastā lieta, ko mēdz teikt ap Ziemassvētkiem",
+            "id": 40914,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Zīme, ko tu varētu izlasīt autostāvvietā",
+            "id": 40915,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Zīme, ko tu varētu redzēt futbola spēlē",
+            "id": 40918,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko teiktu kāds sazvērestības teorētiķis",
+            "id": 40919,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu varētu sagaidīt teikto no Harija Potera",
+            "id": 40920,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu nevēlies dzirdēt, atrodoties alā",
+            "id": 40921,
+            "type": "Drawing Suggestion"
+        },
+        {
+            "suggestion": "Ko cilvēki Latgalē saka daudz ",
+            "id": 40922,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kāda būtu tava frāze, ja tu būtu profesionāls cīkstonis",
+            "id": 40923,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu teiktu, lai izkļūtu no randiņa",
+            "id": 40924,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kāda karsējmeiteņu skandēšana",
+            "id": 40925,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu sāktu sarunā ar Baltcom",
+            "id": 40926,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko, iespējams, domā Mona Liza",
+            "id": 40927,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Banāls kalambūrs, ko zobārsts varētu izdomāt",
+            "id": 40928,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Frāze, ko pārdevējs kliedz bumbas spēlē",
+            "id": 40929,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kādi varētu būt tavi pēdējie vārdi",
+            "id": 40930,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko suņiem saka suņu čukstētājs",
+            "id": 40931,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko, iespējams, domā Brīvības piemineklis",
+            "id": 40932,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Dīvaina lieta, ko lelle var teikt",
+            "id": 40933,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Vienīgais jautājums, ko tu uzdotu vecam gudrajam vīram kalna virsotnē",
+            "id": 40934,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu kliedzi uz amerikāņu kalniņiem",
+            "id": 40935,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tavs attaisnojums par darba kavēšanu",
+            "id": 40936,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko saka jurists",
+            "id": 40937,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko varētu teikt gids",
+            "id": 40938,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Pēdējais, ko tu vēlies dzirdēt no sava ārsta",
+            "id": 40939,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Pēdējais, ko tu vēlies dzirdēt no sava friziera",
+            "id": 40940,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, ko Laima Vaikule droši vien dzied savā istabā",
+            "id": 40941,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu teikt lauksaimnieks",
+            "id": 40942,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Jautra lieta, ko kliegt ballītē",
+            "id": 40943,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko varētu teikt nekaunīgs bērns",
+            "id": 40944,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Kādas senas rokdziesmas teksts",
+            "id": 40945,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, kas varētu būt no Laura Reinika dziesmas",
+            "id": 40947,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Laba lieta, ko uzrakstīt slapjā cementā",
+            "id": 40948,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, Ko priesteris bieži dzird grēksūdzes laikā",
+            "id": 40949,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko saka klauns",
+            "id": 40950,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko saka visinteresantākais cilvēks pasaulē",
+            "id": 40951,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa, ko tu varētu dzirdēt karnevālā",
+            "id": 40952,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu kliegtu Latvijas čempionāta hokejā virslīga laikā",
+            "id": 40953,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa no sliktas uzmundrinošas runas",
+            "id": 40954,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Rindiņa no Satversme",
+            "id": 40955,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko teiktu slikts Skautu un Gaidu līderis",
+            "id": 40956,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu sagaidītu dzirdēt \"Troņu spēlē\" ",
+            "id": 40959,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Padomi, ko tu varētu saņemt no vecvecākiem",
+            "id": 40976,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Zīme, ko varētu redzēt pie kases",
+            "id": 40977,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko bārmenis varētu teikt, kad kļūst par vēlu",
+            "id": 40979,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tev varētu jautāt automazgātavā",
+            "id": 40980,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tavs iecienītākais sauklis",
+            "id": 40981,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu varētu izlasīt uz krekla birkas",
+            "id": 40982,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko varētu teikt tavs zobārsts",
+            "id": 40984,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu varētu dzirdēt Parīzē",
+            "id": 40993,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko tu varētu teikt ar latgaliešu akcentu",
+            "id": 40994,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko tev varētu teikt vampīrs",
+            "id": 40995,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "pančlains vecajam jokam",
+            "id": 40997,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko varētu teikt glābējs",
+            "id": 40998,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "briesmīga lieta, ko var teikt mazs bērns",
+            "id": 40999,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "jautājums, ko varētu saņemt darba intervijā",
+            "id": 41000,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko tu varētu teikt, pasūtot kafiju",
+            "id": 41001,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "plakāts, ko varētu izlasīt bibliotēkā",
+            "id": 41002,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ceļa zīme, ko var redzēt uz šosejas",
+            "id": 41003,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "bērnu dziesmas nosaukums",
+            "id": 41004,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko var pateikt savam bērnam, kad viņi niķojas",
+            "id": 41081,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "komandu, ko tu varētu iesaukt sunim",
+            "id": 41082,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko detektīvs varētu teikt nozieguma vietā",
+            "id": 41083,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "tas, ko kliedza cīņas mačā",
+            "id": 41084,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "jautājums, ko tu varētu uzdot aptiekā",
+            "id": 41088,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "tas, ko tu nevēlies dzirdēt no prezidenta",
+            "id": 41089,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko tu varētu dzirdēt dzimšanas dienas ballītē",
+            "id": 41090,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko kāds kačoks varētu teikt sporta zālē",
+            "id": 41092,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "kāds pirāts droši vien saka daudz",
+            "id": 41094,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "parasti balti meli",
+            "id": 41111,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko tu varētu teikt kaitinošam telemārketinga speciālistam",
+            "id": 41112,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko muzeja gids droši vien saka daudz",
+            "id": 41113,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "motivējošs plakāts, ko esi nesen redzējis",
+            "id": 41115,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko parasti čukst zirgu čukstētājs",
+            "id": 41116,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko futbola tiesnesis varētu kliegt spēles laikā",
+            "id": 41117,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko tev varētu teikt mehāniķis",
+            "id": 41118,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko varētu teikt kāds muļķīgs meteorologs",
+            "id": 41119,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko varētu teikt kāds lielisks spēlmanis",
+            "id": 41120,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "tas, ko tu varētu dzirdēt cūkas driķos dejās",
+            "id": 41121,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko tu varētu dzirdēt no rolands če",
+            "id": 41122,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "tava mīļākā svētkus dziesma",
+            "id": 41123,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko tu varētu kliegt, lai nobiedētu laupītāju",
+            "id": 41124,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "dialoga rindiņa, ko tu varētu dzirdēt ziepju operā",
+            "id": 41125,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "jautājums, ko tu varētu uzdot degvielas uzpildes stacijā",
+            "id": 41126,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko tu varētu sagaidīt no kliedzošo rīdzinieka",
+            "id": 41127,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko tu varētu sagaidīt no liepājnieka",
+            "id": 41128,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko varētu teikt kāds sazvērestības teorētiķis",
+            "id": 41129,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "īsa, romantiska īsziņa",
+            "id": 41130,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "komanda, ko tu varētu dot robotam",
+            "id": 41131,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "tas, ko varētu teikt burvis",
+            "id": 41136,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "tas, ko varētu teikt runājošs suns",
+            "id": 41137,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko tu varētu dzirdēt kliedzot boksa ringā",
+            "id": 41138,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "tas, ko varētu dzirdēt kaimiņu bārbekjū",
+            "id": 41139,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "tas, ko varētu teikt armijas ģenerālis",
+            "id": 41140,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko maratona skrējējs domā 37. kilometrā",
+            "id": 41141,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko varētu kliegt dzemdētāja",
+            "id": 41144,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko kāds varētu domāt, kad King Kongs trako",
+            "id": 41145,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko, iespējams, teica Kolumbs, atrodot Jauno pasauli",
+            "id": 41147,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko varētu teikt biedējošs autostopētājs",
+            "id": 41148,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko parasti domā lauvu dresētājs",
+            "id": 41149,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "ko, iespējams, teica kāds Pilsoņu kara karavīrs",
+            "id": 41152,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Ko tu teiktu pirmajā randiņā",
+            "id": 41234,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko vienmēr teica tava mamma",
+            "id": 41235,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu dzirdētu sliktā ballītē",
+            "id": 41236,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tas, ko tu redzētu uz bufera uzlīmes",
+            "id": 41237,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Tava frāze, ja tevi rādītu televīzijā",
+            "id": 41238,
+            "type": "Slogan Suggestion"
+        }
+    ]
+}

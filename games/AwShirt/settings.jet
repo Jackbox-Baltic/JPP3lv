@@ -1,0 +1,90 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "AwShirtSettingsWidget",
+    "items": [
+        {
+            "title": "Skaļums",
+            "type": "Range",
+            "clip": "AwShirtSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Padarīt spēli SKAĻĀKU vai KLUSĀKU."
+        },
+        {
+            "title": "Uz visu ekrānu",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Pārslēgties starp logu un pilnekrāna režīmiem."
+        },
+        {
+            "title": "Ātrais treniņš",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtQuickTraining",
+            "description": "Spēlētāji zīmē trīs reizes, un rakstīšanas laiks samazinās. Labi piemērots tiešraide."
+        },
+        {
+            "title": "Auditorija",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceOn",
+            "description": "Ļauj auditorijai pieslēgties spēlei un ietekmēt to."
+        },
+        {
+            "title": "Auditorija Spēlē-Kopā",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceSuggestions",
+            "description": "Kamēr spēlētāji zīmē un raksta, auditorija var ievadīt piedāvājumus, kas parādās ekrānā."
+        },
+        {
+            "title": "Paplašinātie taimeri",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtExtendedTimers",
+            "description": "Ieslēdz ļoti garus taimerus. Ieteicams tikai straumē."
+        },
+        {
+            "title": "Prasīt Twitch",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtRequireTwitch",
+            "description": "Lai nokļūtu spēlē, spēlētājiem būs jāautorizējas Twitch konta. Ieteicams tikai straumē."
+        },
+        {
+            "title": "Manuālā cenzūra",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtCensorable",
+            "description": "Ļauj VIP (pirmajam spēlētājam) manuāli cenzēt atbildes."
+        },
+        {
+            "title": "Sākt spēli tikai no kontroliera",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtGamepadStart",
+            "description": "Spēli varēs sākt ar tastatūru, nevis no spēlētāju ierīcēm."
+        },
+        {
+            "title": "Atļaut paslēpt telpa kodu",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtHideRoomCode",
+            "description": "Ļauj paslēpt telpa kodu, lai spēlētāji neienāktu agrāk. Ieteicams tikai straumē."
+        }
+    ]
+}

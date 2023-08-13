@@ -1,0 +1,30 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Sesijas Statistika",
+            "description": "Statistika par šo spēles sesiju (nokrīt pēc iziešanas no spēles.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Twitch Statistika",
+            "description": "Statistika no tikai Twitch spēlēm (saglabājas pat pēc iziešanas no spēles.)"
+        }
+    ],
+    "columns": [{
+        "id": "playerName",
+        "name": "Spēlētāja vārds"
+    }, {
+        "id": "gamesWon",
+        "name": "Uzvarēti turnīri"
+    }, {
+        "id": "roundsWon",
+        "name": "Uzvarēti raundi"
+    }, {
+        "id": "streaksWon",
+        "name": "Uzvarēti pēc nepārtrauktības"
+    }, {
+        "id": "shirtalities",
+        "name": "Nokrekaušana"
+    }]
+}
