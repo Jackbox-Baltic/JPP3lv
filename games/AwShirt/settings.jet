@@ -52,7 +52,7 @@
             "clip": "AwShirtToggleWidget",
             "width": 1,
             "source": "AwShirtExtendedTimers",
-            "description": "Ieslēdz ļoti garus taimerus. Ieteicams tikai straumē."
+            "description": "Ieslēdz ļoti ilgas taimeri. Ieteicams tikai straumē."
         },
         {
             "title": "Prasīt Twitch",
@@ -79,12 +79,12 @@
             "description": "Spēli varēs sākt ar tastatūru, nevis no spēlētāju ierīcēm."
         },
         {
-            "title": "Atļaut paslēpt telpa kodu",
+            "title": "Atļaut paslēpt telpas kodu",
             "type": "Toggle",
             "clip": "AwShirtToggleWidget",
             "width": 1,
             "source": "AwShirtHideRoomCode",
-            "description": "Ļauj paslēpt telpa kodu, lai spēlētāji neienāktu agrāk. Ieteicams tikai straumē."
+            "description": "Ļauj paslēpt telpas kodu, lai spēlētāji neienāktu agrāk. Ieteicams tikai straumē."
         }
     ]
 }
